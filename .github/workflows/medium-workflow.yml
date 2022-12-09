@@ -15,6 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@honglin0822"
-          template: $newline - [$title]($url) $newline 🏷 $categories $newline 🗓︎ $date
+          template: $newline - [$title]($url) <br> 🏷 $categories <br> 🗓︎ $date
           date_format: mmm d, yyyy
           max_post_count: 10
