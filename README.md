@@ -46,7 +46,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Github Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=HongLinLiao&theme=nord&no-frame=true&margin-w=15&margin-h=15" />
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=HongLinLiao&theme=nord&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
 <h2 align="center">Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=HongLinLiao&show_icons=true&theme=nord" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HongLinLiao&show_icons=true&theme=nord" />
+</p>
