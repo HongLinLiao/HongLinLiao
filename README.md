@@ -42,12 +42,8 @@
 </p>
 
 <h2 align="center">Medium Blog</h2>
+
 <!-- BLOG-POST-LIST:START -->
-- [LINE Taiwan Front-End Engineer Interview Process](https://medium.com/leo-comfortzone/line-taiwan-front-end-engineer-interview-process-b717ffd474da?source=rss-2e22bd7cf7b7------2)
-- [SSH Connect AWS EC2 Ubuntu Permission denied &lpar;publickey&rpar;](https://medium.com/leo-comfortzone/ssh-connect-aws-ec2-ubuntu-permission-denied-publickey-8377960ad522?source=rss-2e22bd7cf7b7------2)
-- [2022 IBM Campus Hire-Associate Application Consultant Interview Process](https://medium.com/leo-comfortzone/2022-ibm-campus-hire-associate-application-consultant-interview-process-44da7cd0618c?source=rss-2e22bd7cf7b7------2)
-- [Hands-on GitLab CI/CD Docker Container to Azure App Service](https://medium.com/leo-comfortzone/hands-on-gitlab-ci-cd-docker-container-to-azure-app-service-e6106630cfcf?source=rss-2e22bd7cf7b7------2)
-- [2021 國泰CAP實習計畫面試流程](https://medium.com/leo-comfortzone/2021%E5%9C%8B%E6%B3%B0cap%E5%AF%A6%E7%BF%92%E8%A8%88%E7%95%AB%E9%9D%A2%E8%A9%A6%E6%B5%81%E7%A8%8B-b361f195a525?source=rss-2e22bd7cf7b7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Github Trophy</h2>
