@@ -42,6 +42,7 @@
 <h2 align="center">Medium Blog</h2>
 
 <!-- BLOG-POST-LIST:START -->
+ - [Typescript 5.0 Upgrades and Breaking Changes](https://medium.com/leo-comfortzone/typescript-5-0-upgrades-and-breaking-changes-ed747544a06a?source=rss-2e22bd7cf7b7------2) <br> 🏷 javascript, microsoft, typescript, software-development <br> 🗓︎ Mar 23, 2023
  - [LINE Taiwan Front-End Engineer Interview Process](https://medium.com/leo-comfortzone/line-taiwan-front-end-engineer-interview-process-b717ffd474da?source=rss-2e22bd7cf7b7------2) <br> 🏷 careers, line, taiwan, frontend-development, frontend <br> 🗓︎ Aug 14, 2022
  - [SSH Connect AWS EC2 Ubuntu Permission denied &lpar;publickey&rpar;](https://medium.com/leo-comfortzone/ssh-connect-aws-ec2-ubuntu-permission-denied-publickey-8377960ad522?source=rss-2e22bd7cf7b7------2) <br> 🏷 software-development, ec2, ssh, linux, aws <br> 🗓︎ Jul 26, 2022
  - [2022 IBM Campus Hire-Associate Application Consultant Interview Process](https://medium.com/leo-comfortzone/2022-ibm-campus-hire-associate-application-consultant-interview-process-44da7cd0618c?source=rss-2e22bd7cf7b7------2) <br> 🏷 consultant, ibm, careers <br> 🗓︎ May 12, 2022
