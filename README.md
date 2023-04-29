@@ -42,6 +42,7 @@
 <h2 align="center">Medium Blog</h2>
 
 <!-- BLOG-POST-LIST:START -->
+ - [Nginx reverse proxy and Let’s Encrypt SSL](https://medium.com/leo-liao/nginx-reverse-proxy-and-lets-encrypt-ssl-eddd7a774147?source=rss-2e22bd7cf7b7------2) <br> 🏷 devops, nginx, ssl, lets-encrypt, backend <br> 🗓︎ Apr 29, 2023
  - [Typescript 5.0 Upgrades and Breaking Changes](https://medium.com/leo-liao/typescript-5-0-upgrades-and-breaking-changes-ed747544a06a?source=rss-2e22bd7cf7b7------2) <br> 🏷 front-end-development, microsoft, typescript, backend, frontend <br> 🗓︎ Mar 23, 2023
  - [LINE Taiwan Front-End Engineer Interview Process](https://medium.com/leo-liao/line-taiwan-front-end-engineer-interview-process-b717ffd474da?source=rss-2e22bd7cf7b7------2) <br> 🏷 careers, line, taiwan, frontend-development <br> 🗓︎ Aug 14, 2022
  - [SSH Connect AWS EC2 Ubuntu Permission denied &lpar;publickey&rpar;](https://medium.com/leo-liao/ssh-connect-aws-ec2-ubuntu-permission-denied-publickey-8377960ad522?source=rss-2e22bd7cf7b7------2) <br> 🏷 ec2, ssh, devops, backend, aws <br> 🗓︎ Jul 26, 2022
